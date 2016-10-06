@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "NODE_PATH=. node server.js",
+    "test": "NODE_PATH=. node tests/test.js"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "neo4j-driver": "^1.0.4",
+    "node-uuid": "^1.4.7"
+  }
+}
