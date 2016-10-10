@@ -1,6 +1,7 @@
 var assert = require('assert');
 require("neoGlobal");
 
+
 module.exports = (function () {
 	global.__baseDirName = __dirname;
 

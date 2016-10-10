@@ -1,3 +1,6 @@
+/**
+ * That file Initalize all the global used function and tool as the logger :)
+ */
 var colors = require("colors");
 
 module.exports.init = (function () {
